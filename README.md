@@ -2,7 +2,7 @@
 
 A Streamlit app for verifying signatures using a Siamese Neural Network. Upload two images and check if they match.
 
-Features
+**Features**
 
 Upload two signature images
 
